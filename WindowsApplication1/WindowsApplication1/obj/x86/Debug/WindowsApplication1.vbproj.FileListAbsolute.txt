@@ -1,0 +1,316 @@
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Bind_DatagridView_Wth_DataTable.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Kenzach\Desktop\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\oha oha oha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\bin\Debug\COMPUTER_LAB.mdb
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\TESTING #7\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\bin\Debug\COMPUTER_LAB.mdb
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\test 1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\COMPUTER_LAB.mdb
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\INVENTORY.mdb
+C:\Users\Kenzach\Desktop\CODES\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\FUCKTHISSHIT1.mdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\bin\Debug\COMLAB1REPORTS.mdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\COMLAB1REPORTS.mdb
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\FUCKTHISSHIT1.mdb
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ferdinand Monter\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\COMLAB1REPORTS.mdb
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\FUCKTHISSHIT1.mdb
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\FUCKTHISSHIT1.mdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\Form4.resx
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\Form4.Designer.vb
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\Form4.vb
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Kenzach\Desktop\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\COMLAB1REPORTS.mdb
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\BACKUP - Copy updated\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\COMLAB1REPORTS.mdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\FUCKTHISSHIT1.mdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form8.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form9.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.licenses
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\Form7.resx
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\Form7.Designer.vb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\Form7.vb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\CL1REPORT.mdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\MACLAB.mdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form10.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form11.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\MACLABREPORTS.mdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form12.resources
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\bin\Debug\MACLABREP.mdb
+C:\Users\Kenzach\Desktop\INVENTORY SYSTEM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form13.resources
